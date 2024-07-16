@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <conio.h>
+//comentario bien pendejo
+int a,b,c;
+int main (){
+printf("tumadre")
+
+
+
+
+
+}
